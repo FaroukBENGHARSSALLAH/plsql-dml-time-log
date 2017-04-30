@@ -10,7 +10,7 @@ Implemeted APIs:
 
 Log SQL DML statements duration expressed in 'microsecond; µs' applied in a user table 'PERSONS' in 'TIE_DML_LOG' table.
 
-You can make a try in Oracle's PL/SQL console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
+You can make a try in Oracle's PL/SQL's online console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
 
 The content of log table will be like this:
 
