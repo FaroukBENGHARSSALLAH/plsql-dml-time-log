@@ -8,7 +8,7 @@ Implemeted APIs:
 - [x] INSERT
 - [x] UPDATE
 
-Log SQL DML statements duration expressed in 'microsecond; µs' applied in a user table 'PERSONS' in 'TIE_DML_LOG' table.
+Log SQL DML statements duration expressed in 'microsecond; µs' applied in a user table 'PERSONS' in 'TIME_DML_LOG' table.
 
 You can make a try in Oracle's PL/SQL's online console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
 
